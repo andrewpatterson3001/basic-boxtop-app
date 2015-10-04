@@ -1,28 +1,10 @@
-== README
+Basic Boxtop App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Ruby version I used is ruby 2.2.1p85 (2015-02-26 revision 49769) [x86_64-darwin14].
 
-Things you may want to cover:
+The Rails version I used is Rails 4.2.3.
 
-* Ruby version
+The site is hosted at "".
 
-* System dependencies
+Enter secret codes to earn points and compete to win prizes!
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
